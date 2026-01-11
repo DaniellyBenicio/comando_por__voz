@@ -1,0 +1,7 @@
+0 Background Noise
+1 Baixo
+2 Cima
+3 Desligado
+4 Direito
+5 Esquerdo
+6 Ligado
