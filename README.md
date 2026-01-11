@@ -1,16 +1,12 @@
 # comando_por__voz
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter para reconhecer comandos por voz utilizando ML.
 
-## Getting Started
+O modelo de classificação de áudio foi treinado na plataforma Teachable Machine e convertido para TensorFlow Lite. A aplicação interpreta comandos falados (Cima, Baixo, Esquerda, Direita, Ligado e Desligado) e os converte em ações dentro do aplicativo, utilizando ícones para representar visualmente cada comando reconhecido.
 
-This project is a starting point for a Flutter application.
+Tecnologias Utilizadas:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter
+Dart
+TensorFlow Lite
+Teachable Machine
